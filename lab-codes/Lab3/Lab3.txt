@@ -1,0 +1,1 @@
+./Debug/list.c.o ./Debug/Lab3-2.c.o   

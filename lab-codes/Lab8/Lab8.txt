@@ -1,0 +1,1 @@
+./Debug/Lab8-1.c.o ./Debug/stackar.c.o ./Debug/tree.c.o   

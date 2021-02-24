@@ -1,0 +1,1 @@
+./Debug/queue.c.o ./Debug/Lab6-1.c.o   

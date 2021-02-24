@@ -1,0 +1,1 @@
+./Debug/sort.c.o ./Debug/Lab10-1.c.o   

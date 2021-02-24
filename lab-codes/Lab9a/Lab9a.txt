@@ -1,0 +1,1 @@
+./Debug/hashquad.c.o ./Debug/hashsep.c.o ./Debug/Lab9-1.c.o   
